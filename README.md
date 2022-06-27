@@ -1,4 +1,6 @@
-# Breadth First Search
+## EX NO:02
+## DATE:28.4.22
+# <p align="center">Breadth First Search
 ## AIM
 To develop an algorithm to find the route from the source to the destination point using breadth-first search.
 
@@ -30,10 +32,8 @@ End of program.
 
 ## PROGRAM
 ```python
-# Experiment done by
-# Student name : A.Divya Meenakshi
-```
-```python3
+    Developed by : A.Divya Meenakshi
+    Register number : 212220230014
 %matplotlib inline
 import matplotlib.pyplot as plt
 import random
